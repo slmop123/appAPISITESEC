@@ -8,15 +8,15 @@ https://app.aikido.dev/.well-known/nodeinfo
 https://app.aikido.dev/.well-known/offline/wrongdomain.html
 https://app.aikido.dev/.well-known/openid-configuration
 https://app.aikido.dev/.well-known/security.txt
-https://app.aikido.dev/.well-known/trust.txt
-https://app.aikido.dev/?groupId=35787
+https://app.aikido.dev/.well-known/trust.txt     suc
+https://app.aikido.dev/?groupId=35787     suc
 https://app.aikido.dev/ads.txt
 https://app.aikido.dev/ai-pentests
 https://app.aikido.dev/api/auth/logout
 https://app.aikido.dev/api/user/isAuthenticated
 https://app.aikido.dev/app-ads.txt
 https://app.aikido.dev/assets/logo-27001-2022.png
-https://app.aikido.dev/assets/logo-soc-2.png
+https://app.aikido.dev/assets/logo-soc-2.png    suc
 https://app.aikido.dev/atom.xml
 https://app.aikido.dev/audit-report/external/0p1vf4b2uv0xwQIZw0YOJ24l/request
 https://app.aikido.dev/audit-report/external/52ZsQnDqpXsUJCEduyP4iT9t/request
@@ -31,3 +31,5 @@ https://app.aikido.dev/audit-report/external/nLKsGGosNZinTXHcjSu8a95g/request
 https://app.aikido.dev/audit-report/external/NzayAUgNoqiMuiy7p7yNvI0U/request
 https://app.aikido.dev/audit-report/external/NzayAUgNoqiMuiy7p7yNvI0U/request\
 https://app.aikido.dev/audit-report/external/OXobFvmr51REEK5amCHNgsBx/request
+
+
